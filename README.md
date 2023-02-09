@@ -1,5 +1,7 @@
 # Hello World
-Soy Eduardo Rios, economista, 28 años, me gusta viajar y realizar deporte.
+Hola soy Eduardo y este es mi primer repositorio.
+Actualmente estudio la maestría en Ciencia de los Datos, soy economista de profesión y trabajo como analista financiero para Farmacia Guadalajara.
+Me gusta viajar, ir al cine y realizar deporte
 
 ![](https://media.giphy.com/media/LpkhKVwp6dpCg/giphy.gif)
 [fuente:GIPHY](https://media.giphy.com/media/LpkhKVwp6dpCg/giphy.gif)
