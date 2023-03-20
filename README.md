@@ -12,3 +12,6 @@ La sección de Referencias de este repositorio las encontrarás en [este link](h
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
 ![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_II/main/actividades/img/MCD_logo.png)
+
+
+Hola! Yo soy Monserrat y soy compañera de Eduardo en la maestría en Ciencia de los Datos, soy politóloga y actualmente trabajo como Ingeniera de Datos.
